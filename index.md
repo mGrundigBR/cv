@@ -13,6 +13,24 @@ built teams, fought fires and delivered high quality products.
 
 ## Employment History
 
+### Senior Python Developer, Farfetch London ###
+
+2018 - present
+
+* * Role Overview*:
+Work as a part of a Python Development team.
+On one hand, being involved with one of the Data Science teams, helping out in the daily bits:
+Pricing & Commercial: Prices recommendations and stock forecasting among others
+Pay per Click: Ad bidding in different platforms, at scale
+Product Matching: Product deduplication and tagging
+Customer Behaviour: Predictions for customer operations
+On the other hand, helping to build the Infrastructure and Data Science services to serve the teams, this includes:
+Managing requirements from other teams that want to work with us and helping plan the strategy of the team
+Providing support on engineering tasks by organically building our provided services
+Helping to grow the infrastructure and data platform
+
+If that's something interesting to you, get in touch with me: marcelo.grundig@farfetch.com :)
+
 ### Engineering Team Lead, Osirium
 
 January 2014 - Present
